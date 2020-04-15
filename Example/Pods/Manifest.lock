@@ -1,0 +1,16 @@
+PODS:
+  - HLUnit (0.1.0)
+
+DEPENDENCIES:
+  - HLUnit (from `../`)
+
+EXTERNAL SOURCES:
+  HLUnit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLUnit: dfe4b7b3e2f385b9ccba08e7ad6e895cf88ae4a1
+
+PODFILE CHECKSUM: 49675c32d4dce9bea4143a9e4f0f00fdf483ff20
+
+COCOAPODS: 1.5.3

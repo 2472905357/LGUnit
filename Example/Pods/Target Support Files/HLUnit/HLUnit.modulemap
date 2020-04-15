@@ -1,0 +1,6 @@
+framework module HLUnit {
+  umbrella header "HLUnit-umbrella.h"
+
+  export *
+  module * { export * }
+}
